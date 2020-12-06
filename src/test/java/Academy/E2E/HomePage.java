@@ -43,7 +43,9 @@ public class HomePage extends base {
     	
         System.out.println("this is for just git demo1");
         System.out.println("this is for just git demo2");
-        
+        System.out.println("this is for just git demo3");
+        System.out.println("this is for just git demo4");
+        System.out.println("this is for just git demo5");
         
     	Log.info(text);
     	
