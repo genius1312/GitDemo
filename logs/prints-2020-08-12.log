@@ -1,0 +1,6 @@
+12:57:17.783 [TestNG-tests-2] INFO  Academy.E2E.HomePage - Non-Restricted User
+12:57:24.658 [TestNG-tests-2] INFO  Academy.E2E.HomePage - Restricted User
+13:05:28.541 [TestNG-tests-3] INFO  Academy.E2E.validateTitle - Driver is initialized
+13:05:38.621 [TestNG-tests-1] INFO  Academy.E2E.validateNavigationbar - Navigation bar is displayed
+13:05:40.935 [TestNG-tests-3] INFO  Academy.E2E.validateTitle - Navigate to qaclickacademy site
+13:05:43.876 [TestNG-tests-2] INFO  Academy.E2E.HomePage - Non-Restricted User

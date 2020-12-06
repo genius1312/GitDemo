@@ -1,0 +1,7 @@
+16:23:41.047 [main] INFO  Academy.E2E.validateTitle - Navigate to qaclickacademy site
+16:27:54.474 [main] INFO  Academy.E2E.validateNavigationbar - Navigation bar is displayed
+16:28:06.325 [main] INFO  Academy.E2E.HomePage - Non-Restricted User
+16:28:10.402 [main] INFO  Academy.E2E.HomePage - Restricted User
+16:28:15.069 [main] INFO  Academy.E2E.validateTitle - Driver is initialized
+16:28:19.526 [main] INFO  Academy.E2E.validateTitle - Navigate to qaclickacademy site
+16:52:43.842 [main] INFO  Academy.E2E.validateNavigationbar - Navigation bar is displayed
