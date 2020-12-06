@@ -41,7 +41,10 @@ public class HomePage extends base {
     	fp.emailaddress().sendKeys(username);
     	fp.sendmeinstruction().click();
     	
-    
+        System.out.println("this is for just git demo1");
+        System.out.println("this is for just git demo2");
+        
+        
     	Log.info(text);
     	
     }
