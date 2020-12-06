@@ -34,7 +34,10 @@ public class validateTitle extends base {
     	
     	LandingPage lp = new LandingPage(driver);
     	Assert.assertEquals(lp.getTitle().getText(), "FEATURED COURSES123");
-        System.out.println("demo demo demo");    	
+        System.out.println("demo demo demo");
+        System.out.println("this is for just git demo1");
+        System.out.println("this is for just git demo2");
+        System.out.println("this is for just git demo3");
     	Log.info("Title is displayed");
     	
     	
